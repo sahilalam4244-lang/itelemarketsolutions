@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" role="img" aria-labelledby="title desc">
 <title id="title">itelemarket solutions — Connect Beyond Limits</title>
-<desc id="desc">Reproduction of the supplied Itelemarket Solutions logo, preserving its aqua and coral hourglass shapes, muted teal oval, black lowercase i, wordmark and tagline.</desc>
-<rect width="1600" height="1200" fill="#fff"/>
-<path d="M437 183H971L872 505H536Z" fill="#82d9d9"/>
-<path d="M536 505H872L967 812H442Z" fill="#ff8984"/>
-<ellipse cx="704" cy="504" rx="168" ry="213" fill="#91b7b5"/>
-<text x="704" y="550" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="154" font-weight="700" fill="#050505">i</text>
-<text x="704" y="849" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" fill="#050505" letter-spacing="-.8">itelemarket solutions</text>
-<text x="704" y="870" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111">Connect Beyond Limits</text>
+<desc id="desc">Official Itelemarket Solutions logo: aqua upper hourglass-shaped trapezoid, coral lower hourglass-shaped trapezoid, overlapping muted grey vertical oval, black lowercase letter i, company name and tagline.</desc>
+<rect width="600" height="780" fill="#fff"/>
+<path d="M80 0H520L440 300L380 420H220L160 300Z" fill="#82d9d9"/>
+<path d="M160 300L220 420H380L440 300L516 650H84Z" fill="#ff8984"/>
+<ellipse cx="300" cy="360" rx="116" ry="213" fill="#91b7b5"/>
+<text x="300" y="411" text-anchor="middle" font-family="Georgia,serif" font-size="130" font-weight="700" fill="#050505">i</text>
+<text x="300" y="688" text-anchor="middle" font-family="Arial,sans-serif" font-size="39" font-weight="700" fill="#050505">itelemarket solutions</text>
+<text x="300" y="713" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#111">Connect Beyond Limits</text>
 </svg>
