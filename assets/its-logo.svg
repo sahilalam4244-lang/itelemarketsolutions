@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" role="img" aria-labelledby="title desc">
-<title id="title">ITELEMARKET SOLUTIONS</title><desc id="desc">Official logo with aqua upper shape, coral lower shape, overlapping grey oval, black lowercase i, company name and Connect Beyond Limits tagline.</desc>
-<rect width="600" height="780" fill="#ffffff"/>
-<path d="M0 0H600L490 365H110Z" fill="#82d9d9"/>
-<path d="M110 365H490L596 708H4Z" fill="#ff8984"/>
-<ellipse cx="300" cy="365" rx="190" ry="240" fill="#91b7b5"/>
-<text x="300" y="426" text-anchor="middle" font-family="Georgia,serif" font-size="154" font-weight="700" fill="#050505">i</text>
-<text x="300" y="748" text-anchor="middle" font-family="Arial,sans-serif" font-size="43" font-weight="700" fill="#050505" letter-spacing="-.8">itelemarket solutions</text>
-<text x="300" y="772" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111">Connect Beyond Limits</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 720" role="img" aria-labelledby="title desc">
+<title id="title">ITELEMARKET SOLUTIONS</title>
+<desc id="desc">Official Itelemarket Solutions logo: aqua upper trapezoid, coral lower trapezoid, muted teal-grey oval with a black serif lowercase i, black company wordmark and Connect Beyond Limits tagline.</desc>
+<path d="M17 13H551L450 330H120Z" fill="#82d9d9"/>
+<path d="M120 330H450L547 642H22Z" fill="#ff8984"/>
+<ellipse cx="285" cy="334" rx="190" ry="214" fill="#91b7b5"/>
+<text x="285" y="380" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="154" font-weight="700" fill="#050505">i</text>
+<text x="285" y="680" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" fill="#050505" letter-spacing="-.8">itelemarket solutions</text>
+<text x="285" y="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#111">Connect Beyond Limits</text>
 </svg>
