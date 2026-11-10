@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="760" viewBox="0 0 600 760">
+<rect width="600" height="760" fill="#ffffff"/>
+<path d="M15 18H585L470 385H130Z" fill="#82d9d9"/>
+<path d="M130 385H470L585 715H15Z" fill="#ff8984"/>
+<ellipse cx="300" cy="385" rx="158" ry="214" fill="#8db8b5"/>
+<text x="300" y="438" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="174" font-weight="bold" fill="#080808">i</text>
+<text x="300" y="746" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.2" fill="#080808">itelemarket solutions</text>
+<text x="300" y="758" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="1" fill="#080808"> </text>
+</svg>
