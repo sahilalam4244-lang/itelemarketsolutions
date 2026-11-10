@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sahilalam4244-lang.github.io/itelemarketsolutions/sitemap.xml
