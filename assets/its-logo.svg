@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 608 784" role="img" aria-labelledby="title desc">
 <title id="title">itelemarket solutions — Connect Beyond Limits</title>
-<desc id="desc">Official Itelemarket Solutions logo: aqua upper hourglass-shaped trapezoid, coral lower hourglass-shaped trapezoid, overlapping muted grey vertical oval, black lowercase letter i, company name and tagline.</desc>
-<rect width="600" height="780" fill="#fff"/>
-<path d="M80 0H520L440 300L380 420H220L160 300Z" fill="#82d9d9"/>
-<path d="M160 300L220 420H380L440 300L516 650H84Z" fill="#ff8984"/>
-<ellipse cx="300" cy="360" rx="116" ry="213" fill="#91b7b5"/>
-<text x="300" y="411" text-anchor="middle" font-family="Georgia,serif" font-size="130" font-weight="700" fill="#050505">i</text>
-<text x="300" y="688" text-anchor="middle" font-family="Arial,sans-serif" font-size="39" font-weight="700" fill="#050505">itelemarket solutions</text>
-<text x="300" y="713" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#111">Connect Beyond Limits</text>
+<desc id="desc">Original Itelemarket Solutions logo, preserving the aqua upper shape, coral lower shape, large overlapping grey oval, black lowercase i, company name and tagline.</desc>
+<rect width="608" height="784" fill="#fff"/>
+<path d="M0 0H608C580 128 539 257 496 365L112 365C69 257 28 128 0 0Z" fill="#82d9d9"/>
+<path d="M112 365H496C539 478 579 596 603 715H5C29 596 69 478 112 365Z" fill="#ff8984"/>
+<ellipse cx="304" cy="366" rx="192" ry="243" fill="#91b7b5"/>
+<text x="304" y="418" text-anchor="middle" font-family="Georgia,serif" font-size="154" font-weight="700" fill="#050505">i</text>
+<text x="304" y="757" text-anchor="middle" font-family="Arial,sans-serif" font-size="49" font-weight="700" fill="#050505">itelemarket solutions</text>
+<text x="304" y="780" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#111">Connect Beyond Limits</text>
 </svg>
